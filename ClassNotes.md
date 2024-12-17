@@ -1,4 +1,4 @@
-# Software Development Life Cycle
+# SOFTWARE DEVELOPMENT LIFE CYCLE
 - Requirement Analysis
 - Design
 - Environment Setup
